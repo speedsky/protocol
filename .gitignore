@@ -3,12 +3,15 @@ Debug
 Release
 temp
 tmp
+log
+obj
 
 # Log file
 *.log
 *.tlog
 *.obj
-
+*.sdf
+*.opensdf
 
 
 # Package Files #
