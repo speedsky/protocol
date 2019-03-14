@@ -11,7 +11,7 @@ TCP，UDP协议的示例
 
 1. 关闭socket时，Linux使用`close()`函数，而Windows使用`closesocket()`函数。
 
-##HTTP协议的几个重要概念
+## HTTP协议的几个重要概念
 
 1. **连接(Connection)**：一个传输层的实际环流，它是建立在两个相互通讯的应用程序之间
 
