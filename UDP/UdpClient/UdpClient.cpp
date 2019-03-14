@@ -32,5 +32,7 @@ int main(int argc, char* argv[])
 
 	closesocket(sclient);
 	WSACleanup();
+	system("pause");
+	
 	return 0;
 }
