@@ -5,6 +5,7 @@ temp
 tmp
 log
 obj
+ipch
 
 # Log file
 *.log

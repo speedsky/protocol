@@ -15,19 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="HttpServer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
     <ClInclude Include="MTcp.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="MUdp.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="MTcp.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="MUdp.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
